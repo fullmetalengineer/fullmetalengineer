@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Alan. I focus on building software projects for startups. My default software stack is a Rails backend and an Angular|React front-end, but each project is unique and that stack changes depending on the project requirements.
+I'm Alan. I focus on building software projects for startups. My default software stack is a Rails backend and an Angular|Vue (prefer Nuxt) front-end, but each project is unique and that stack changes depending on the project requirements.
 
 - 📍 I live in the American Heartland. I grew up here in Flyover country, and I'll likely die here.
 - 💻 I’m currently working on: Tons of client work. Soon on my own projects!
