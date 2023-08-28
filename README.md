@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I focus on building greenfield software. My default software stack is a Rails backend and an Next.js front-end, but each project is unique and that stack changes depending on the project requirements. I've used Node, Rails, Elixir, Golang, C#/DotNet, C++ (many years ago!), and more.
+I tend to focus on building greenfield software, and specifically on products that I feel have large, meaningful impact at large.
 
 - 📍 I live in the American Heartland. I grew up here in Flyover country, and I love it here.
 - 💻 I’m currently working on: Sequel, a trustless, end-to-end encrypted protocol based on OPAQUE built for securing, managing, and recovering digital wallets.
