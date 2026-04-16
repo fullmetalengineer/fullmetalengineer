@@ -21,6 +21,7 @@ Technologies I've used:
 - React Native
 - React
 - Hono
+- Kubernetes, Argo, Helm, Terragrunt
 
 AWS, Cloudflare (durable objects are incredible!)
 
