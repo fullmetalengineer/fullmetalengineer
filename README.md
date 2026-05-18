@@ -13,15 +13,15 @@ I've also been working in Bitbucket for my current employer for years, so true r
 
 Technologies I've used:
 
-- Ruby (Rails)
-- Python (FastAPI)
+- Ruby (Rails) + RubyLLM
+- Python (FastAPI) + PydanticAI
 - Elixir (Phoenix)
 - Golang
 - TypeScript / Nodejs
 - React Native
 - React
 - Hono
-- Kubernetes, Argo, Helm, Terragrunt
+- Kubernetes, Argo, Helm, Terragrunt, Terraform, Kustomize
 
 AWS, Cloudflare (durable objects are incredible!)
 
