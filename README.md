@@ -2,7 +2,7 @@
 
 Email me at alan.d.long@pm.me if you need to reach me.
 
-Unfortunately, most of my work is proprietary, and unable to be shared publicly.
+Unfortunately, most of my work is proprietary and/or in Bitbucket, and unable to be shared publicly.
 
 Some examples:
 - https://agent-safe.com
